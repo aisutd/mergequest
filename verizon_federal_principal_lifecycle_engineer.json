@@ -1,0 +1,159 @@
+{
+  "job_title": "Federal Principal Lifecycle Engineer",
+  "company": "Verizon",
+  "job_id": "R-1101065",
+  "source_url": "https://mycareer.verizon.com/jobs/r-1101065/federal-principal-lifecycle-engineer/",
+  "locations": [
+    "Ashburn, Virginia",
+    "Washington, District of Columbia",
+    "Annapolis Junction, Maryland"
+  ],
+  "skills": [
+    {
+      "name": "Computer Networking",
+      "importance": "required"
+    },
+    {
+      "name": "Enterprise Network Support",
+      "importance": "required"
+    },
+    {
+      "name": "Network Design and Implementation",
+      "importance": "required"
+    },
+    {
+      "name": "Local Area Networks (LAN)",
+      "importance": "required"
+    },
+    {
+      "name": "Wide Area Networks (WAN)",
+      "importance": "required"
+    },
+    {
+      "name": "Software-Defined Networking (SDN)",
+      "importance": "required"
+    },
+    {
+      "name": "Network Function Virtualization (NFV)",
+      "importance": "required"
+    },
+    {
+      "name": "Network Modeling and Analysis",
+      "importance": "required"
+    },
+    {
+      "name": "Network Planning",
+      "importance": "required"
+    },
+    {
+      "name": "Network Security",
+      "importance": "required"
+    },
+    {
+      "name": "Scripting and Automation",
+      "importance": "required"
+    },
+    {
+      "name": "Application Design",
+      "importance": "required"
+    },
+    {
+      "name": "Change Management",
+      "importance": "required"
+    },
+    {
+      "name": "Voice over IP (VoIP)",
+      "importance": "required"
+    },
+    {
+      "name": "Session Initiation Protocol (SIP)",
+      "importance": "required"
+    },
+    {
+      "name": "Public Switched Telephone Network (PSTN) Integration",
+      "importance": "required"
+    },
+    {
+      "name": "Network Configuration Review",
+      "importance": "required"
+    },
+    {
+      "name": "Network Operations Validation",
+      "importance": "required"
+    },
+    {
+      "name": "Disaster Recovery and Network Restoration",
+      "importance": "required"
+    },
+    {
+      "name": "Technical Documentation",
+      "importance": "required"
+    },
+    {
+      "name": "Project Planning and Coordination",
+      "importance": "required"
+    },
+    {
+      "name": "Technical Mentoring",
+      "importance": "required"
+    },
+    {
+      "name": "Production Support and Troubleshooting",
+      "importance": "required"
+    },
+    {
+      "name": "Cross-Functional Collaboration",
+      "importance": "required"
+    },
+    {
+      "name": "Critical Thinking",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Problem Solving",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Decision-Making",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Technical Communication",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Independent Work",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Teamwork",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Project Leadership",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Telecommunications",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Federal Government Experience",
+      "importance": "nice-to-have"
+    },
+    {
+      "name": "Cisco Network Certification or Equivalent",
+      "importance": "required"
+    },
+    {
+      "name": "Eligibility for GSA Public Trust and Applicable Security Clearances",
+      "importance": "required"
+    }
+  ],
+  "unmatched": [],
+  "notes": [
+    "Skills were extracted from the job posting's responsibilities and qualifications.",
+    "The required/nice-to-have labels are a first-pass classification. Review them before using this data in production.",
+    "The unmatched list is empty for now because this file has not yet been compared against the project's canonical skills.json."
+  ]
+}
