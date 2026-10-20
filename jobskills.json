@@ -1,0 +1,323 @@
+[
+  {
+    "job_id": "job_001",
+    "title": "Data Scientist",
+    "company": "PepsiCo",
+    "description": "Develop and deploy statistical and machine learning models, conduct experiments, analyze business data, and collaborate with product managers and data engineers to deliver production-ready analytics solutions.",
+    "expected_skills": [
+      {"skill_id": "python", "importance": "required"},
+      {"skill_id": "machine_learning", "importance": "required"},
+      {"skill_id": "statistical_analysis", "importance": "required"},
+      {"skill_id": "reinforcement_learning", "importance": "required"},
+      {"skill_id": "pyspark", "importance": "required"},
+      {"skill_id": "sql", "importance": "required"},
+      {"skill_id": "cloud_computing", "importance": "required"},
+      {"skill_id": "data_visualization", "importance": "required"},
+      {"skill_id": "agile", "importance": "required"},
+      {"skill_id": "git", "importance": "required"},
+      {"skill_id": "docker", "importance": "preferred"},
+      {"skill_id": "jenkins", "importance": "preferred"},
+      {"skill_id": "natural_language_processing", "importance": "preferred"},
+      {"skill_id": "large_language_models", "importance": "preferred"},
+      {"skill_id": "responsible_ai", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_002",
+    "title": "Data Science (MLOPS) Tech Lead",
+    "company": "PepsiCo",
+    "description": "Lead data science and machine learning initiatives, develop production-ready analytical models, coordinate with engineering teams, and oversee model deployment, monitoring, reliability, and lifecycle management.",
+    "expected_skills": [
+      {"skill_id": "python", "importance": "required"},
+      {"skill_id": "machine_learning", "importance": "required"},
+      {"skill_id": "statistical_modeling", "importance": "required"},
+      {"skill_id": "sql", "importance": "required"},
+      {"skill_id": "etl", "importance": "required"},
+      {"skill_id": "cloud_computing", "importance": "required"},
+      {"skill_id": "model_deployment", "importance": "required"},
+      {"skill_id": "model_monitoring", "importance": "required"},
+      {"skill_id": "git", "importance": "required"},
+      {"skill_id": "agile", "importance": "required"},
+      {"skill_id": "databricks", "importance": "preferred"},
+      {"skill_id": "azure", "importance": "preferred"},
+      {"skill_id": "docker", "importance": "preferred"},
+      {"skill_id": "kubernetes", "importance": "preferred"},
+      {"skill_id": "natural_language_processing", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_003",
+    "title": "Data Science Project Manager",
+    "company": "RealPage, Inc.",
+    "description": "Coordinate data science and machine learning projects from planning through deployment. Manage project schedules, dependencies, risks, cross-functional communication, documentation, and production readiness.",
+    "expected_skills": [
+      {"skill_id": "project_management", "importance": "required"},
+      {"skill_id": "data_science", "importance": "required"},
+      {"skill_id": "machine_learning", "importance": "required"},
+      {"skill_id": "cross_functional_collaboration", "importance": "required"},
+      {"skill_id": "risk_management", "importance": "required"},
+      {"skill_id": "agile", "importance": "required"},
+      {"skill_id": "scrum", "importance": "preferred"},
+      {"skill_id": "kanban", "importance": "preferred"},
+      {"skill_id": "mlops", "importance": "preferred"},
+      {"skill_id": "technical_documentation", "importance": "required"},
+      {"skill_id": "ai_tools", "importance": "required"},
+      {"skill_id": "stakeholder_communication", "importance": "required"}
+    ]
+  },
+  {
+    "job_id": "job_004",
+    "title": "Analyst/Sr Analyst, Contact Center - Analytics",
+    "company": "American Airlines",
+    "description": "Provide analytics support for contact center operations, analyze performance metrics, develop reports, maintain data sources, and deliver insights that improve customer experience and business decisions.",
+    "expected_skills": [
+      {"skill_id": "data_analysis", "importance": "required"},
+      {"skill_id": "quantitative_analysis", "importance": "required"},
+      {"skill_id": "reporting", "importance": "required"},
+      {"skill_id": "statistical_analysis", "importance": "required"},
+      {"skill_id": "kpi_analysis", "importance": "required"},
+      {"skill_id": "database_management", "importance": "required"},
+      {"skill_id": "business_intelligence", "importance": "required"},
+      {"skill_id": "problem_solving", "importance": "required"},
+      {"skill_id": "stakeholder_communication", "importance": "required"}
+    ]
+  },
+  {
+    "job_id": "job_005",
+    "title": "AI Training Specialist – Quantitative - AI Trainer",
+    "company": "DataAnnotation",
+    "description": "Evaluate AI-generated quantitative analysis, solve technical problems, develop training and benchmarking problems, and write technical explanations and analytical code to improve AI reasoning.",
+    "expected_skills": [
+      {"skill_id": "quantitative_reasoning", "importance": "required"},
+      {"skill_id": "statistical_analysis", "importance": "required"},
+      {"skill_id": "predictive_modeling", "importance": "required"},
+      {"skill_id": "scientific_reasoning", "importance": "required"},
+      {"skill_id": "optimization", "importance": "required"},
+      {"skill_id": "forecasting", "importance": "required"},
+      {"skill_id": "experimental_analysis", "importance": "required"},
+      {"skill_id": "technical_writing", "importance": "required"},
+      {"skill_id": "analytical_programming", "importance": "required"},
+      {"skill_id": "artificial_intelligence", "importance": "required"}
+    ]
+  },
+  {
+    "job_id": "job_006",
+    "title": "Director of FP&A – Ground",
+    "company": "Forward Air",
+    "description": "Lead financial planning, budgeting, forecasting, financial modeling, and performance reporting for ground transportation businesses. Partner with business leaders and present financial insights and recommendations to executives.",
+    "expected_skills": [
+      {"skill_id": "financial_planning", "importance": "required"},
+      {"skill_id": "financial_modeling", "importance": "required"},
+      {"skill_id": "budgeting", "importance": "required"},
+      {"skill_id": "financial_forecasting", "importance": "required"},
+      {"skill_id": "variance_analysis", "importance": "required"},
+      {"skill_id": "financial_reporting", "importance": "required"},
+      {"skill_id": "kpi_analysis", "importance": "required"},
+      {"skill_id": "leadership", "importance": "required"},
+      {"skill_id": "executive_communication", "importance": "required"},
+      {"skill_id": "databricks", "importance": "preferred"},
+      {"skill_id": "microsoft_fabric", "importance": "preferred"},
+      {"skill_id": "business_intelligence", "importance": "required"}
+    ]
+  },
+  {
+    "job_id": "job_007",
+    "title": "Cost Analyst (Manufacturing Operations)",
+    "company": "Taylor Farms",
+    "description": "Build pricing and cost models, analyze manufacturing expenses, support sales quotations, monitor profitability, maintain accurate cost data, and prepare reports for management.",
+    "expected_skills": [
+      {"skill_id": "financial_analysis", "importance": "required"},
+      {"skill_id": "cost_accounting", "importance": "required"},
+      {"skill_id": "pricing_analysis", "importance": "required"},
+      {"skill_id": "financial_modeling", "importance": "required"},
+      {"skill_id": "microsoft_excel", "importance": "required"},
+      {"skill_id": "data_analysis", "importance": "required"},
+      {"skill_id": "cost_management", "importance": "required"},
+      {"skill_id": "financial_reporting", "importance": "required"},
+      {"skill_id": "manufacturing_operations", "importance": "preferred"},
+      {"skill_id": "erp_systems", "importance": "preferred"},
+      {"skill_id": "power_bi", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_008",
+    "title": "Senior Financial Analyst, Transformation and Value Realization",
+    "company": "McKesson",
+    "description": "Measure the financial impact of strategic transformation initiatives, develop business cases, establish value-realization methods, prepare executive reports, and evaluate investment performance.",
+    "expected_skills": [
+      {"skill_id": "financial_analysis", "importance": "required"},
+      {"skill_id": "financial_modeling", "importance": "required"},
+      {"skill_id": "business_case_development", "importance": "required"},
+      {"skill_id": "value_realization", "importance": "required"},
+      {"skill_id": "financial_reporting", "importance": "required"},
+      {"skill_id": "stakeholder_management", "importance": "required"},
+      {"skill_id": "strategic_analysis", "importance": "required"},
+      {"skill_id": "power_bi", "importance": "preferred"},
+      {"skill_id": "power_automate", "importance": "preferred"},
+      {"skill_id": "microsoft_copilot", "importance": "preferred"},
+      {"skill_id": "ai_tools", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_009",
+    "title": "Sr. Manager, Strategy - Oncology & Multispecialty",
+    "company": "McKesson",
+    "description": "Develop analytical models, conduct market and competitor research, evaluate strategic initiatives, analyze healthcare commercial opportunities, and communicate findings to support leadership decisions.",
+    "expected_skills": [
+      {"skill_id": "strategic_analysis", "importance": "required"},
+      {"skill_id": "quantitative_analysis", "importance": "required"},
+      {"skill_id": "qualitative_analysis", "importance": "required"},
+      {"skill_id": "market_research", "importance": "required"},
+      {"skill_id": "financial_modeling", "importance": "required"},
+      {"skill_id": "competitive_analysis", "importance": "required"},
+      {"skill_id": "problem_structuring", "importance": "required"},
+      {"skill_id": "data_interpretation", "importance": "required"},
+      {"skill_id": "business_strategy", "importance": "required"},
+      {"skill_id": "executive_communication", "importance": "required"},
+      {"skill_id": "healthcare_industry_knowledge", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_010",
+    "title": "Sr Data Scientist",
+    "company": "The Hershey Company",
+    "description": "Develop advanced analytics and machine learning solutions, design algorithms, conduct experiments, analyze complex datasets, forecast trends, and build production-ready models for business decision-making.",
+    "expected_skills": [
+      {"skill_id": "python", "importance": "required"},
+      {"skill_id": "sql", "importance": "required"},
+      {"skill_id": "machine_learning", "importance": "required"},
+      {"skill_id": "statistical_analysis", "importance": "required"},
+      {"skill_id": "algorithm_development", "importance": "required"},
+      {"skill_id": "experimentation", "importance": "required"},
+      {"skill_id": "predictive_modeling", "importance": "required"},
+      {"skill_id": "data_analysis", "importance": "required"},
+      {"skill_id": "optimization", "importance": "required"},
+      {"skill_id": "production_modeling", "importance": "required"},
+      {"skill_id": "cross_functional_collaboration", "importance": "required"}
+    ]
+  },
+  {
+    "job_id": "job_011",
+    "title": "Department Data Analyst",
+    "company": "UT Southwestern",
+    "description": "Acquire, curate, process, and analyze clinical research and ophthalmic imaging data. Develop data workflows, maintain data quality, perform statistical analysis, support AI research, and prepare research reports.",
+    "expected_skills": [
+      {"skill_id": "python", "importance": "required"},
+      {"skill_id": "data_management", "importance": "required"},
+      {"skill_id": "data_analysis", "importance": "required"},
+      {"skill_id": "statistical_analysis", "importance": "preferred"},
+      {"skill_id": "data_visualization", "importance": "required"},
+      {"skill_id": "data_quality_control", "importance": "required"},
+      {"skill_id": "database_management", "importance": "required"},
+      {"skill_id": "data_deidentification", "importance": "required"},
+      {"skill_id": "clinical_research", "importance": "preferred"},
+      {"skill_id": "medical_imaging", "importance": "preferred"},
+      {"skill_id": "machine_learning", "importance": "preferred"},
+      {"skill_id": "hipaa_compliance", "importance": "required"},
+      {"skill_id": "technical_documentation", "importance": "required"},
+      {"skill_id": "r_programming", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_012",
+    "title": "Senior MADTech Engineer",
+    "company": "AgreeYa Solutions",
+    "description": "Build and optimize cloud-based marketing technology systems, real-time event streaming pipelines, API integrations, and AI-enabled data solutions using Google Cloud technologies.",
+    "expected_skills": [
+      {"skill_id": "python", "importance": "required"},
+      {"skill_id": "google_cloud_platform", "importance": "required"},
+      {"skill_id": "bigquery", "importance": "required"},
+      {"skill_id": "cloud_spanner", "importance": "required"},
+      {"skill_id": "pub_sub", "importance": "required"},
+      {"skill_id": "vertex_ai", "importance": "required"},
+      {"skill_id": "real_time_data_streaming", "importance": "required"},
+      {"skill_id": "api_integration", "importance": "required"},
+      {"skill_id": "data_engineering", "importance": "required"},
+      {"skill_id": "event_routing", "importance": "required"},
+      {"skill_id": "metarouter", "importance": "preferred"},
+      {"skill_id": "segment", "importance": "preferred"},
+      {"skill_id": "tealium", "importance": "preferred"},
+      {"skill_id": "growthloop", "importance": "preferred"},
+      {"skill_id": "optimizely", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_013",
+    "title": "Account Executive",
+    "company": "Emergent Software",
+    "description": "Generate new business opportunities, sell technology and professional services, build executive relationships, develop sales pipelines, and collaborate with Microsoft teams to close client deals.",
+    "expected_skills": [
+      {"skill_id": "sales", "importance": "required"},
+      {"skill_id": "business_development", "importance": "required"},
+      {"skill_id": "client_relationship_management", "importance": "required"},
+      {"skill_id": "lead_generation", "importance": "required"},
+      {"skill_id": "pipeline_management", "importance": "required"},
+      {"skill_id": "consultative_selling", "importance": "required"},
+      {"skill_id": "negotiation", "importance": "required"},
+      {"skill_id": "stakeholder_communication", "importance": "required"},
+      {"skill_id": "microsoft_ecosystem", "importance": "required"},
+      {"skill_id": "cloud_computing", "importance": "preferred"},
+      {"skill_id": "artificial_intelligence", "importance": "preferred"},
+      {"skill_id": "software_services", "importance": "preferred"}
+    ]
+  },
+  {
+    "job_id": "job_014",
+    "title": "Senior Construction Project Manager",
+    "company": "CornerStone Staffing",
+    "description": "Manage commercial construction projects from planning through completion. Coordinate architects, engineers, and contractors while overseeing budgets, schedules, construction quality, risk, and project reporting.",
+    "expected_skills": [
+      {"skill_id": "construction_project_management", "importance": "required"},
+      {"skill_id": "project_planning", "importance": "required"},
+      {"skill_id": "budget_management", "importance": "required"},
+      {"skill_id": "cost_control", "importance": "required"},
+      {"skill_id": "risk_management", "importance": "required"},
+      {"skill_id": "contractor_coordination", "importance": "required"},
+      {"skill_id": "construction_oversight", "importance": "required"},
+      {"skill_id": "quality_control", "importance": "required"},
+      {"skill_id": "schedule_management", "importance": "required"},
+      {"skill_id": "technical_documentation", "importance": "required"},
+      {"skill_id": "stakeholder_communication", "importance": "required"}
+    ]
+  },
+  {
+    "job_id": "job_015",
+    "title": "Analyst, Data & Analytics",
+    "company": "National Life Insurance Company",
+    "description": "Develop SQL queries, analytical datasets, dashboards, and reports. Analyze business and customer data, monitor performance indicators, and conduct market research to support business strategy and product development.",
+    "expected_skills": [
+      {"skill_id": "sql", "importance": "required"},
+      {"skill_id": "data_analysis", "importance": "required"},
+      {"skill_id": "business_intelligence", "importance": "required"},
+      {"skill_id": "dashboard_development", "importance": "required"},
+      {"skill_id": "data_cleaning", "importance": "required"},
+      {"skill_id": "data_validation", "importance": "required"},
+      {"skill_id": "market_research", "importance": "required"},
+      {"skill_id": "kpi_monitoring", "importance": "required"},
+      {"skill_id": "data_workflows", "importance": "required"},
+      {"skill_id": "quantitative_analysis", "importance": "required"},
+      {"skill_id": "qualitative_research", "importance": "preferred"},
+      {"skill_id": "business_communication", "importance": "required"}
+    ]
+  },
+  {
+    "job_id": "job_016",
+    "title": "Sr Data Analyst - Data Analyst Advisor",
+    "company": "FedEx",
+    "description": "Analyze structured and unstructured datasets, apply statistical and quantitative methods, develop data solutions, identify business trends, and communicate actionable insights to management and cross-functional teams.",
+    "expected_skills": [
+      {"skill_id": "data_analysis", "importance": "required"},
+      {"skill_id": "statistical_analysis", "importance": "required"},
+      {"skill_id": "quantitative_analysis", "importance": "required"},
+      {"skill_id": "data_mining", "importance": "required"},
+      {"skill_id": "text_mining", "importance": "required"},
+      {"skill_id": "data_modeling", "importance": "preferred"},
+      {"skill_id": "data_processing", "importance": "required"},
+      {"skill_id": "business_intelligence", "importance": "required"},
+      {"skill_id": "data_visualization", "importance": "preferred"},
+      {"skill_id": "problem_solving", "importance": "required"},
+      {"skill_id": "technical_communication", "importance": "required"},
+      {"skill_id": "cross_functional_collaboration", "importance": "required"}
+    ]
+  }
+]
